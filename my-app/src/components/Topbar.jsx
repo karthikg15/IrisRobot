@@ -17,7 +17,7 @@ const Topbar = () => {
     {
       id: 1,
       title: 'Abnormal Heart Rate',
-      patient: 'John Doe - Room 302',
+      patient: 'Karthik G - Room 302',
       time: 'Just now',
       type: 'critical',
       icon: <HeartPulse size={16} />
@@ -25,7 +25,7 @@ const Topbar = () => {
     {
       id: 2,
       title: 'Fall Detection Warning',
-      patient: 'Michael Johnson - Room 308',
+      patient: 'Sakthi Mahadevan - Room 308',
       time: '5m ago',
       type: 'critical',
       icon: <Activity size={16} />
