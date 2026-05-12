@@ -1,0 +1,19 @@
+
+Design a modern healthcare robot monitoring dashboard UI for a patient monitoring robot system. The dashboard should include:
+
+A Live Patient Monitoring Panel showing real-time sensor data such as body temperature, heart rate, patient movement status, and ultrasonic sensor readings. Use animated cards, gauges, and line charts for visualization.
+An Emergency Alert System section that displays alerts for abnormal heart rate, fever, fall detection, no movement detection, and robot disconnection. Use red warning cards, alert icons, and notification panels for critical situations.
+A Patient History & Analytics section with interactive charts showing heart rate trends, temperature history, movement/activity analysis, and alert history over time.
+A Room Mapping View that visualizes the robot’s surroundings using ultrasonic sensor data. Display obstacle positions, robot movement path, and a mini room layout/map in real time.
+
+The UI should have:
+
+A clean futuristic medical theme
+Dark mode interface
+Responsive layout
+Sidebar navigation
+Top status bar
+Smooth animations
+Professional healthcare color palette
+Real-time updating widgets
+Modern cards and glassmorphism effects

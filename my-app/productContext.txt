@@ -1,0 +1,19 @@
+Product is a robot that monitors the patient using sensors. Camera and ultrasonic sensors to monitor the patients movements. 
+Temperature sensors, IR sensor, ECG sensor, gas sensor for air quality, SpO2 sensor and heart rate monitoring. 
+
+
+Patients hospitalized for extended periods often experience heightened stress, anxiety, and
+isolation-challenges that are further intensified by the growing imbalance between patient volumes
+and available nursing staff. Continuous monitoring and emotional reassurance become difficult to
+sustain, while the burden of manual documentation and routine check-ups limits the ability of
+healthcare professionals to focus on patients requiring urgent care.
+IRIS is designed as an intelligent monitoring and assistance platform that bridges this gap. It continuously
+observes patients' physical and behavioral indicators through connected sensors, visual inputs, and
+real-time data processing, securely transmitting insights to a centralized dashboard for medical staff. By
+combining automated observation with structured digital reporting, the system ensures reliable and
+consistent patient oversight.
+Acting as an intelligent triage layer, IRIS analyzes live data to prioritize cases based on severity, instantly
+highlighting critical situations for immediate intervention. By automating monitoring, alerting, and
+logging functions, it reduces administrative workload, improves response efficiency, and enables nurses
+to dedicate their time and expertise to the patients who need it most-enhancing both patient safety
+and hospital workflow performance.
